@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created in Webflow. https://www.webflow.com -->
-<!-- Last Published: Thu Apr 13 2023 23:20:45 GMT+0000 (Coordinated Universal Time) -->
+<!-- Last Published: Fri Apr 14 2023 22:44:28 GMT+0000 (Coordinated Universal Time) -->
 <html data-wf-domain="katherineauqui.webflow.io" data-wf-page="63dc706614948e57adfdb60f" data-wf-site="63dc706614948e8cedfdb60e">
     <head>
         <meta charset="utf-8"/>
@@ -17,6 +17,10 @@
                 html.w-mod-js:not(.w-mod-ix) [data-w-id="f3f74b9e-b972-cbcb-caef-9193ec1adb74"] {
                     opacity: 0;
                 }
+
+                html.w-mod-js:not(.w-mod-ix) [data-w-id="620b7a59-5f50-6add-2852-4c6a9f036ec4"] {
+                    opacity: 0;
+                }
             }
 
             @media (max-width: 991px) and (min-width:768px) {
@@ -25,6 +29,10 @@
                 }
 
                 html.w-mod-js:not(.w-mod-ix) [data-w-id="f3f74b9e-b972-cbcb-caef-9193ec1adb74"] {
+                    opacity: 0;
+                }
+
+                html.w-mod-js:not(.w-mod-ix) [data-w-id="620b7a59-5f50-6add-2852-4c6a9f036ec4"] {
                     opacity: 0;
                 }
             }
@@ -60,7 +68,7 @@
         </script>
         <link href="https://uploads-ssl.webflow.com/63dc706614948e8cedfdb60e/64220b36cd987394c94da134_kathfavicon.jpg" rel="shortcut icon" type="image/x-icon"/>
         <link href="https://uploads-ssl.webflow.com/63dc706614948e8cedfdb60e/6422110d3d5f32db3b19649e_kathfwebclip.jpg" rel="apple-touch-icon"/>
-         <!-- Google tag (gtag.js) -->
+        <!-- Google tag (gtag.js) -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-PX8WZ81DMD"></script>
         <script>
           window.dataLayer = window.dataLayer || [];
@@ -68,6 +76,29 @@
           gtag('js', new Date());
 
           gtag('config', 'G-PX8WZ81DMD');
+        </script>
+        <script>
+            window['_fs_host'] = 'fullstory.com';
+            window['_fs_script'] = 'edge.fullstory.com/s/fs.js';
+            window['_fs_org'] = 'o-1K3AJ8-na1';
+            window['_fs_namespace'] = 'FS';
+            (function(m,n,e,t,l,o,g,y){
+                if (e in m) {if(m.console && m.console.log) { m.console.log('FullStory namespace conflict. Please set window["_fs_namespace"].');} return;}
+                g=m[e]=function(a,b,s){g.q?g.q.push([a,b,s]):g._api(a,b,s);};g.q=[];
+                o=n.createElement(t);o.async=1;o.crossOrigin='anonymous';o.src='https://'+_fs_script;
+                y=n.getElementsByTagName(t)[0];y.parentNode.insertBefore(o,y);
+                g.identify=function(i,v,s){g(l,{uid:i},s);if(v)g(l,v,s)};g.setUserVars=function(v,s){g(l,v,s)};g.event=function(i,v,s){g('event',{n:i,p:v},s)};
+                g.anonymize=function(){g.identify(!!0)};
+                g.shutdown=function(){g("rec",!1)};g.restart=function(){g("rec",!0)};
+                g.log = function(a,b){g("log",[a,b])};
+                g.consent=function(a){g("consent",!arguments.length||a)};
+                g.identifyAccount=function(i,v){o='account';v=v||{};v.acctId=i;g(o,v)};
+                g.clearUserCookie=function(){};
+                g.setVars=function(n, p){g('setVars',[n,p]);};
+                g._w={};y='XMLHttpRequest';g._w[y]=m[y];y='fetch';g._w[y]=m[y];
+                if(m[y])m[y]=function(){return g._w[y].apply(this,arguments)};
+                g._v="1.3.0";
+            })(window,document,window['_fs_namespace'],'script','user');
         </script>
     </head>
     <body>
@@ -94,30 +125,18 @@
                 </div>
             </div>
             <div class="hero">
-                <div class="row">
-                    <div class="hero-content">
-                        <div data-w-id="0d98b62e-ef3a-aa72-0bca-013ad5fbf4d5" style="opacity:0" class="box">
-                            <h2 class="heading-h2">Estoy aquí 
+                <div class="hero-container">
+                    <img src="https://uploads-ssl.webflow.com/63dc706614948e8cedfdb60e/642208a3652daf65c3622b95_kath-hero.jpg" loading="lazy" width="751" height="482" alt="Katherine está sentada en el sofá con las manos a los lados mirando a la cámara sonriendo" srcset="https://uploads-ssl.webflow.com/63dc706614948e8cedfdb60e/642208a3652daf65c3622b95_kath-hero-p-500.jpg 500w, https://uploads-ssl.webflow.com/63dc706614948e8cedfdb60e/642208a3652daf65c3622b95_kath-hero-p-800.jpg 800w, https://uploads-ssl.webflow.com/63dc706614948e8cedfdb60e/642208a3652daf65c3622b95_kath-hero-p-1080.jpg 1080w, https://uploads-ssl.webflow.com/63dc706614948e8cedfdb60e/642208a3652daf65c3622b95_kath-hero.jpg 1600w" sizes="(max-width: 991px) 100vw, 50vw" class="hero-image"/>
+                    <div class="hero-left-content">
+                        <h2 class="heading-h2">Estoy aquí 
 para ayudar</h2>
-                            <p class="body-1">Sé que buscar ayuda no es fácil, pero quiero que sepas que este es un espacio seguro para ti. Empecemos junt@s en tu viaje de sanación y crecimiento personal.</p>
+                        <p class="body-1 more-marging">Sé que buscar ayuda no es fácil, pero quiero que sepas que este es un espacio seguro para ti. Empecemos junt@s en tu viaje de sanación y crecimiento personal.</p>
+                        <div class="button-box">
                             <a href="https://wa.me/message/GR2ZUOGFG53DI1" target="_blank" class="button-big w-button">Agenda una cita conmigo</a>
                         </div>
                     </div>
-                    <div data-w-id="684e374a-fa0a-1d73-a79f-1a1855515078" style="opacity:0" class="right-column">
-                        <div class="right-colum-hero-image">
-                            <img src="https://uploads-ssl.webflow.com/63dc706614948e8cedfdb60e/642208a3652daf65c3622b95_kath-hero.jpg" loading="lazy" width="751" height="482" alt="Katherine está sentada en el sofá con las manos a los lados mirando a la cámara sonriendo" srcset="https://uploads-ssl.webflow.com/63dc706614948e8cedfdb60e/642208a3652daf65c3622b95_kath-hero-p-500.jpg 500w, https://uploads-ssl.webflow.com/63dc706614948e8cedfdb60e/642208a3652daf65c3622b95_kath-hero-p-800.jpg 800w, https://uploads-ssl.webflow.com/63dc706614948e8cedfdb60e/642208a3652daf65c3622b95_kath-hero-p-1080.jpg 1080w, https://uploads-ssl.webflow.com/63dc706614948e8cedfdb60e/642208a3652daf65c3622b95_kath-hero.jpg 1600w" sizes="(max-width: 479px) 90vw, (max-width: 767px) 87vw, (max-width: 991px) 88vw, 100vw" class="hero-image"/>
-                        </div>
-                        <div class="shape-wrapper">
-                            <img src="https://uploads-ssl.webflow.com/63dc706614948e8cedfdb60e/63f441bea0b9d179b25672c2_Vectors-Wrapper.svg" loading="lazy" alt="decorative image as a background, behind the main image" class="green-shape"/>
-                        </div>
-                    </div>
+                    <img src="https://uploads-ssl.webflow.com/63dc706614948e8cedfdb60e/63f442601d6e8a041afd3b2b_Vectors-Wrapper.svg" loading="lazy" alt="" class="bg-image"/>
                 </div>
-                <a href="#about-section" class="liink-block-about w-inline-block">
-                    <div data-w-id="684e374a-fa0a-1d73-a79f-1a185551507d" style="opacity:0" class="arrow">
-                        <img src="https://uploads-ssl.webflow.com/63dc706614948e8cedfdb60e/63f441bfc70540b5fbf7a1cf_Vectors-Wrapper.svg" loading="lazy" alt="down arrow" class="vectors-wrapper-12"/>
-                        <div class="body-1">Sobre mí</div>
-                    </div>
-                </a>
             </div>
             <div id="about-section" class="about">
                 <div class="about-header">
@@ -176,7 +195,7 @@ para ayudar</h2>
             </div>
             <div id="work-together-section" class="work-together">
                 <div class="container">
-                    <div data-w-id="620b7a59-5f50-6add-2852-4c6a9f036ec4" style="opacity:0" class="work-header">
+                    <div data-w-id="620b7a59-5f50-6add-2852-4c6a9f036ec4" class="work-header">
                         <h3 class="heading-h3">Trabajemos juntos</h3>
                         <div class="work-box">
                             <p class="body-1 center link-green">Mi objetivo es apoyarte en tu camino hacia una vida emocional y mentalmente más saludable.</p>
