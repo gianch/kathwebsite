@@ -100,8 +100,19 @@
                 g._v="1.3.0";
             })(window,document,window['_fs_namespace'],'script','user');
         </script>
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-T9V3RLD');</script>
+        <!-- End Google Tag Manager -->
     </head>
     <body>
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T9V3RLD"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
         <div class="katherine-website">
             <div data-animation="default" class="navbar w-nav" data-easing2="ease" data-easing="ease" data-collapse="medium" style="opacity:0" data-w-id="684e374a-fa0a-1d73-a79f-1a1855515058" role="banner" data-no-scroll="1" data-duration="400" data-doc-height="1">
                 <div class="full-container">
