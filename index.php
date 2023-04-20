@@ -261,6 +261,14 @@ para ayudar</h2>
                                 <img alt="Left quotation mark" loading="lazy" src="https://uploads-ssl.webflow.com/63dc706614948e8cedfdb60e/63f441c50d8a084a79b98e6a_Vectors-Wrapper.svg" class="comilla-left"/>
                                 <img alt="Right quotation mark" loading="lazy" src="https://uploads-ssl.webflow.com/63dc706614948e8cedfdb60e/63f441c6fcccf443c5830411_Vectors-Wrapper.svg" class="comilla-right"/>
                             </div>
+                            <div class="slide-wrapper w-slide">
+                                <blockquote class="quote">
+                                    Llevar terapia de pareja con Katherine nos ayudó a fortalecer nuestra relación. Ella es muy profesional, en todas las sesiones nos hizo sentir escuchados, comprendidos y mostraba su interés para aportar a nuestro bienestar como pareja, mediante herramientas para sobrellevar situaciones de conflictos.<br/>
+                                </blockquote>
+                                <img alt="left quotation mark" loading="lazy" src="https://uploads-ssl.webflow.com/63dc706614948e8cedfdb60e/63f441c50d8a084a79b98e6a_Vectors-Wrapper.svg" class="comilla-left"/>
+                                <img alt="right quotation mark" loading="lazy" src="https://uploads-ssl.webflow.com/63dc706614948e8cedfdb60e/63f441c6fcccf443c5830411_Vectors-Wrapper.svg" class="comilla-right"/>
+                                <p class="participant">Anlly (Perú) y Julian (Colombia).</p>
+                            </div>
                             <div class="slide slide-wrapper w-slide">
                                 <img alt="Left quotation mark" loading="lazy" src="https://uploads-ssl.webflow.com/63dc706614948e8cedfdb60e/63f441c50d8a084a79b98e6a_Vectors-Wrapper.svg" class="comilla-left"/>
                                 <img alt="Right quotation mark" loading="lazy" src="https://uploads-ssl.webflow.com/63dc706614948e8cedfdb60e/63f441c6fcccf443c5830411_Vectors-Wrapper.svg" class="comilla-right"/>
@@ -274,14 +282,6 @@ para ayudar</h2>
                                 <img alt="Left quotation mark" loading="lazy" src="https://uploads-ssl.webflow.com/63dc706614948e8cedfdb60e/63f441c50d8a084a79b98e6a_Vectors-Wrapper.svg" class="comilla-left"/>
                                 <img alt="Right quotation mark" loading="lazy" src="https://uploads-ssl.webflow.com/63dc706614948e8cedfdb60e/63f441c6fcccf443c5830411_Vectors-Wrapper.svg" class="comilla-right"/>
                                 <p id="subheader" class="participant">Roberto, Perú.</p>
-                            </div>
-                            <div class="slide-wrapper w-slide">
-                                <blockquote class="quote">
-                                    Llevar terapia de pareja con Katherine nos ayudó a fortalecer nuestra relación. Ella es muy profesional, en todas las sesiones nos hizo sentir escuchados, comprendidos y mostraba su interés para aportar a nuestro bienestar como pareja, mediante herramientas para sobrellevar situaciones de conflictos.<br/>
-                                </blockquote>
-                                <img alt="left quotation mark" loading="lazy" src="https://uploads-ssl.webflow.com/63dc706614948e8cedfdb60e/63f441c50d8a084a79b98e6a_Vectors-Wrapper.svg" class="comilla-left"/>
-                                <img alt="right quotation mark" loading="lazy" src="https://uploads-ssl.webflow.com/63dc706614948e8cedfdb60e/63f441c6fcccf443c5830411_Vectors-Wrapper.svg" class="comilla-right"/>
-                                <p class="participant">Anlly (Perú) y Julian (Colombia).</p>
                             </div>
                         </div>
                         <div class="left-arrow w-slider-arrow-left">
