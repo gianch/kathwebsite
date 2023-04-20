@@ -277,11 +277,11 @@ para ayudar</h2>
                             </div>
                             <div class="slide-wrapper w-slide">
                                 <blockquote class="quote">
-                                    En el tiempo que estuve en terapia con Katherine me sentí muy cómoda y tranquila hablando con ella. Me ayudó en muchos aspectos, fue una guía para mí y gran ayuda.<br/>
+                                    Llevar terapia de pareja con Katherine nos ayudó a fortalecer nuestra relación. Ella es muy profesional, en todas las sesiones nos hizo sentir escuchados, comprendidos y mostraba su interés para aportar a nuestro bienestar como pareja, mediante herramientas para sobrellevar situaciones de conflictos.<br/>
                                 </blockquote>
                                 <img alt="left quotation mark" loading="lazy" src="https://uploads-ssl.webflow.com/63dc706614948e8cedfdb60e/63f441c50d8a084a79b98e6a_Vectors-Wrapper.svg" class="comilla-left"/>
                                 <img alt="right quotation mark" loading="lazy" src="https://uploads-ssl.webflow.com/63dc706614948e8cedfdb60e/63f441c6fcccf443c5830411_Vectors-Wrapper.svg" class="comilla-right"/>
-                                <p class="participant">Astri, Perú.</p>
+                                <p class="participant">Anlly (Perú) y Julian (Colombia).</p>
                             </div>
                         </div>
                         <div class="left-arrow w-slider-arrow-left">
