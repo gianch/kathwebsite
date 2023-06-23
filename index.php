@@ -378,7 +378,7 @@ para ayudar</h2>
                         </div>
                         <div class="footer-logo-block">
                             <div class="body-3">Psicóloga clínica</div>
-                            <div class="body-4 temp-hide">Núm. Colegiado: 2845</div>
+                            <div class="body-4">CPsP 52176</div>
                         </div>
                     </div>
                     <div class="footer-content">
