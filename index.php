@@ -365,7 +365,7 @@ para ayudar</h2>
                                     </div>
                                 </div>
                             </div>
-                            <a href="https://www.instagram.com/psic.katherineauqui/" target="_blank" class="button-secondary w-button">Sígueme en Instagram</a>
+                            <a href="https://www.instagram.com/psickatherineauqui/" target="_blank" class="button-secondary w-button">Sígueme en Instagram</a>
                         </div>
                     </div>
                 </div>
@@ -407,7 +407,7 @@ para ayudar</h2>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://instagram.com/psic.katherineauqui?igshid=YmMyMTA2M2Y=" target="_blank" class="app-block w-inline-block">
+                                <a href="https://instagram.com/psickatherineauqui?igshid=YmMyMTA2M2Y=" target="_blank" class="app-block w-inline-block">
                                     <img src="https://uploads-ssl.webflow.com/63dc706614948e8cedfdb60e/63f441cafcccf4755b83079d_Vectors-Wrapper.svg" loading="lazy" alt="Instagram icon" class="icon-in"/>
                                 </a>
                             </li>
