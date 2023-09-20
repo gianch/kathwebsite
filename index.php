@@ -334,7 +334,7 @@ para ayudar</h2>
                                 </div>
                             </div>
                         </div>
-                        <a href="https://www.tiktok.com/@psic.katherineauqui" target="_blank" class="button-secondary w-button">Sígueme en Tiktok</a>
+                        <a href="https://www.tiktok.com/@psickatherineauqui" target="_blank" class="button-secondary w-button">Sígueme en Tiktok</a>
                     </div>
                     <div class="column">
                         <div data-w-id="cd674f1d-c743-4bcf-4c16-048db3f37f0a" style="opacity:0" class="resources-box no-border">
@@ -402,7 +402,7 @@ para ayudar</h2>
                         <div class="footer-title">MIS REDES</div>
                         <ul role="list" class="footer-social w-list-unstyled">
                             <li>
-                                <a href="https://www.tiktok.com/@psic.katherineauqui" target="_blank" class="app-block w-inline-block">
+                                <a href="https://www.tiktok.com/@psickatherineauqui" target="_blank" class="app-block w-inline-block">
                                     <img src="https://uploads-ssl.webflow.com/63dc706614948e8cedfdb60e/63f441caffa3a3539a3fa69a_Vectors-Wrapper.svg" loading="lazy" alt="Tiktok icon" class="icon-tiktok"/>
                                 </a>
                             </li>
@@ -417,7 +417,7 @@ para ayudar</h2>
                                 </a>
                             </li>
                             <li>
-                                <a href="mailto:hola@psickatherineauqui.com" class="app-block w-inline-block">
+                                <a href="mailto:psickatherineauqui@gmail.com" class="app-block w-inline-block">
                                     <img src="https://uploads-ssl.webflow.com/63dc706614948e8cedfdb60e/63f441cc302d5f416d8650e3_Vectors-Wrapper.svg" loading="lazy" alt="Email icon" class="icon-email"/>
                                 </a>
                             </li>
