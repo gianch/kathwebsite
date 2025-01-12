@@ -3361,6 +3361,31 @@ ul {
     overflow: visible
 }
 
+.testimonial-video.video-first {
+    background-image: url('images/videofirst-cover.jpg'); /* Your fallback image */
+    background-size: cover;
+    background-color: var(--dark-green); /* Fallback color */
+}
+
+.testimonial-video.video-second {
+    background-image: url('images/videosecond-cover.jpg'); /* Your fallback image */
+    background-size: cover;
+    background-color: var(--dark-green); /* Fallback color */
+}
+
+.testimonial-video.video-third {
+    background-image: url('images/videothird-cover.jpg'); /* Your fallback image */
+    background-size: cover;
+    background-color: var(--dark-green); /* Fallback color */
+}
+
+.testimonial-video.video-fourth {
+    background-image: url('images/videofourth-cover.jpg'); /* Your fallback image */
+    background-size: cover;
+    background-color: var(--dark-green); /* Fallback color */
+}
+
+
 .slider-content {
     grid-column-gap: 80px;
     grid-row-gap: 80px;
