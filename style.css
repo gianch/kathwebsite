@@ -1070,7 +1070,7 @@ body {
 .w-slider {
     tap-highlight-color: #0000;
     background: #ddd;
-    height: 300px;
+    height: auto;
     position: relative
 }
 
@@ -3358,30 +3358,32 @@ ul {
 .testimonial-video {
     border-radius: 16px;
     text-align: center;
-    overflow: visible
+    overflow: visible;
+    background-color: var(--dark-green); /* Fallback color */
 }
 
 .testimonial-video.video-first {
     background-image: url('images/videofirst-cover.jpg'); /* Your fallback image */
     background-size: cover;
-    background-color: var(--dark-green); /* Fallback color */
+    width: 320px;
 }
 
 .testimonial-video.video-second {
     background-image: url('images/videosecond-cover.jpg'); /* Your fallback image */
     background-size: cover;
-    background-color: var(--dark-green); /* Fallback color */
+    width: 320px;
 }
 
 .testimonial-video.video-third {
     background-image: url('images/videothird-cover.jpg'); /* Your fallback image */
     background-size: cover;
-    background-color: var(--dark-green); /* Fallback color */
+    width: 320px;   
 }
 
 .testimonial-video.video-fourth {
     background-image: url('images/videofourth-cover.jpg'); /* Your fallback image */
     background-size: cover;
+    width: 320px;
     background-color: var(--dark-green); /* Fallback color */
 }
 
