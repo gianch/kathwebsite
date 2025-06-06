@@ -200,6 +200,10 @@
                             <h3 class="heading-h3 dark-green">Formaciones y cursos</h3>
                             <div class="list-row">
                                 <ul role="list" class="about-list">
+                                    <li class="highlghted-list">Cursando Maestría en Terapia Psicológica de Tercera Generación</li>
+                                    <li class="body-2 education-text">Universidad Internacional de Valencia, España</li>
+                                </ul>
+                                <ul role="list" class="about-list">
                                     <li class="highlghted-list">Licenciada en Psicología Clínica</li>
                                     <li class="body-2 education-text">Pontificia Universidad Católica del Perú</li>
                                 </ul>
